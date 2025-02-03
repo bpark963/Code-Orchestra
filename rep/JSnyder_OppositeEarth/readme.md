@@ -1,0 +1,1 @@
+a href="https://www.scattershot.org/opposite_earth_conductor.html"> Here's the conductor patch for opposite earth</a>
