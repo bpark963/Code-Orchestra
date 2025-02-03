@@ -12,7 +12,7 @@
 		"classnamespace" : "box",
 		"rect" : [ 70.0, 79.0, 1336.0, 787.0 ],
 		"bglocked" : 0,
-		"openinpresentation" : 0,
+		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
 		"default_fontface" : 0,
 		"default_fontname" : "Arial",
@@ -274,7 +274,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 333.0, 493.0, 50.0, 35.0 ],
-					"text" : "midinote 1 0"
+					"text" : "midinote 5 0"
 				}
 
 			}
