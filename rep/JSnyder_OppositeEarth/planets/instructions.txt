@@ -1,0 +1,2 @@
+Here's the synth patch for opposite earth - sorry it's not well commented. 
+Numbers select the different chords/colors, and letters play the notes
