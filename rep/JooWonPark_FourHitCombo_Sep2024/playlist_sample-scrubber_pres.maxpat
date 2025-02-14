@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 92.0, 116.0, 1427.0, 946.0 ],
+		"rect" : [ 34.0, 79.0, 1372.0, 787.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -869,11 +869,11 @@
 					"color" : [ 0.0, 0.0, 0.0, 1.0 ],
 					"data" : 					{
 						"clips" : [ 							{
-								"absolutepath" : "/Users/danielfishkin/Downloads/AT-101-1-202490-Corpus 3 Recordings-390946/Deysi Nazario Bello_361650_assignsubmission_file/AT 101 edited sound files /Trumpet and Bass dancing .wav",
-								"filename" : "Trumpet and Bass dancing .wav",
+								"absolutepath" : "niceCHORDS.wav",
+								"filename" : "niceCHORDS.wav",
 								"filekind" : "audiofile",
-								"id" : "u766005222",
-								"selection" : [ 0.052528070931978, 0.052877843608661 ],
+								"id" : "u504002768",
+								"selection" : [ 0.827175964621245, 0.831175215287201 ],
 								"loop" : 1,
 								"content_state" : 								{
 									"loop" : 1
@@ -881,11 +881,11 @@
 
 							}
 , 							{
-								"absolutepath" : "/Users/danielfishkin/Downloads/AT-101-1-202490-Corpus 3 Recordings-390946/Emiliano Camero Cortez_361646_assignsubmission_file/Corpus3-Emi/C3.singingsakura.mp3",
-								"filename" : "C3.singingsakura.mp3",
+								"absolutepath" : "syntherandom_sparse_Bap.m4a",
+								"filename" : "syntherandom_sparse_Bap.m4a",
 								"filekind" : "audiofile",
-								"id" : "u699005243",
-								"selection" : [ 0.140009643724467, 0.140379215506856 ],
+								"id" : "u264002776",
+								"selection" : [ 0.261298940028505, 0.262562274560234 ],
 								"loop" : 1,
 								"content_state" : 								{
 									"loop" : 1
@@ -893,11 +893,11 @@
 
 							}
 , 							{
-								"absolutepath" : "/Users/danielfishkin/Downloads/AT-101-1-202490-Corpus 3 Recordings-390946/Willow Lopez_361648_assignsubmission_file/W3 - My Fan It Speaks In Rotations/W3 - My Melody That Made Them Dance.wav",
-								"filename" : "W3 - My Melody That Made Them Dance.wav",
+								"absolutepath" : "WK1_strangeDrone.wav",
+								"filename" : "WK1_strangeDrone.wav",
 								"filekind" : "audiofile",
-								"id" : "u936005263",
-								"selection" : [ 0.361429416301848, 0.362383451395697 ],
+								"id" : "u056002784",
+								"selection" : [ 1.0, 1.0 ],
 								"loop" : 1,
 								"content_state" : 								{
 									"loop" : 1
@@ -905,11 +905,11 @@
 
 							}
 , 							{
-								"absolutepath" : "/Users/danielfishkin/Downloads/AT-101-1-202490-Corpus 3 Recordings-390946/Kristina Provost_361641_assignsubmission_file/Drums week two.wav",
-								"filename" : "Drums week two.wav",
+								"absolutepath" : "WK1_waterRunning.wav",
+								"filename" : "WK1_waterRunning.wav",
 								"filekind" : "audiofile",
-								"id" : "u590005295",
-								"selection" : [ 0.112052132558712, 0.112299369083971 ],
+								"id" : "u968002792",
+								"selection" : [ 0.534987081538126, 0.537573650217136 ],
 								"loop" : 1,
 								"content_state" : 								{
 									"loop" : 1
@@ -917,11 +917,11 @@
 
 							}
 , 							{
-								"absolutepath" : "/Users/danielfishkin/Downloads/AT-101-1-202490-Corpus 3 Recordings-390946/Kersyn McBride_361642_assignsubmission_file/week 3 coffee shop (people talking) .wav",
-								"filename" : "week 3 coffee shop (people talking) .wav",
+								"absolutepath" : "WK1_birdsChirping.wav",
+								"filename" : "WK1_birdsChirping.wav",
 								"filekind" : "audiofile",
-								"id" : "u092005315",
-								"selection" : [ 0.298604682899922, 0.299818129196671 ],
+								"id" : "u621002800",
+								"selection" : [ 1.0, 1.0 ],
 								"loop" : 1,
 								"content_state" : 								{
 									"loop" : 1
@@ -929,26 +929,14 @@
 
 							}
 , 							{
-								"absolutepath" : "/Users/danielfishkin/Downloads/AT-101-1-202490-Corpus 3 Recordings-390946/Rudmila Maliat Martuza_361640_assignsubmission_file/WK3_Sounds.wav/Sound-02.wav",
-								"filename" : "Sound-02.wav",
+								"absolutepath" : "WK1_waterRunning.wav",
+								"filename" : "WK1_waterRunning.wav",
 								"filekind" : "audiofile",
-								"id" : "u111005335",
-								"selection" : [ 0.202339392782063, 0.208664467084253 ],
+								"id" : "u838002808",
+								"selection" : [ 0.534987081538126, 0.537573650217136 ],
 								"loop" : 1,
 								"content_state" : 								{
 									"loop" : 1
-								}
-
-							}
-, 							{
-								"absolutepath" : "/Users/danielfishkin/Downloads/AT-101-1-202490-Corpus 3 Recordings-390946/Kersyn McBride_361642_assignsubmission_file/week 3 dog howling.wav",
-								"filename" : "week 3 dog howling.wav",
-								"filekind" : "audiofile",
-								"id" : "u151005543",
-								"selection" : [ 0.090452261306533, 0.099664991624791 ],
-								"loop" : 0,
-								"content_state" : 								{
-
 								}
 
 							}
@@ -1252,7 +1240,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 440.0, 607.0, 136.0, 22.0 ],
-					"text" : "clips[0]::durationms"
+					"text" : "clips[-1]::durationms"
 				}
 
 			}
@@ -1265,7 +1253,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 387.0, 734.0, 74.0, 35.0 ],
-					"text" : "51029.333333"
+					"text" : "115862.086168"
 				}
 
 			}
@@ -1867,7 +1855,7 @@
 									"outlettype" : [ "" ],
 									"parameter_enable" : 0,
 									"patching_rect" : [ 206.0, 317.2236328125, 135.0, 36.0 ],
-									"size" : 1200.0
+									"size" : 900.0
 								}
 
 							}
@@ -1881,7 +1869,7 @@
 									"outlettype" : [ "" ],
 									"parameter_enable" : 0,
 									"patching_rect" : [ 53.0, 317.2236328125, 135.0, 36.0 ],
-									"size" : 1920.0
+									"size" : 1440.0
 								}
 
 							}
@@ -2462,7 +2450,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 57.5, 298.0, 273.0, 22.0 ],
-					"text" : "selectionms 1 2680.472441 2698.321107"
+					"text" : "selectionms 0 30274.640305 30421.01288"
 				}
 
 			}
@@ -2911,52 +2899,38 @@
 		}
 ,
 		"dependency_cache" : [ 			{
-				"name" : "C3.singingsakura.mp3",
-				"bootpath" : "~/Downloads/AT-101-1-202490-Corpus 3 Recordings-390946/Emiliano Camero Cortez_361646_assignsubmission_file/Corpus3-Emi",
-				"patcherrelativepath" : "../../../Downloads/AT-101-1-202490-Corpus 3 Recordings-390946/Emiliano Camero Cortez_361646_assignsubmission_file/Corpus3-Emi",
-				"type" : "Mp3",
-				"implicit" : 1
-			}
-, 			{
-				"name" : "Drums week two.wav",
-				"bootpath" : "~/Downloads/AT-101-1-202490-Corpus 3 Recordings-390946/Kristina Provost_361641_assignsubmission_file",
-				"patcherrelativepath" : "../../../Downloads/AT-101-1-202490-Corpus 3 Recordings-390946/Kristina Provost_361641_assignsubmission_file",
+				"name" : "WK1_birdsChirping.wav",
+				"bootpath" : "~/gitprojects/CreativeCodes/normal_files",
+				"patcherrelativepath" : "../../../CreativeCodes/normal_files",
 				"type" : "WAVE",
 				"implicit" : 1
 			}
 , 			{
-				"name" : "Sound-02.wav",
-				"bootpath" : "~/Downloads/AT-101-1-202490-Corpus 3 Recordings-390946/Rudmila Maliat Martuza_361640_assignsubmission_file/WK3_Sounds.wav",
-				"patcherrelativepath" : "../../../Downloads/AT-101-1-202490-Corpus 3 Recordings-390946/Rudmila Maliat Martuza_361640_assignsubmission_file/WK3_Sounds.wav",
+				"name" : "WK1_strangeDrone.wav",
+				"bootpath" : "~/gitprojects/CreativeCodes/normal_files",
+				"patcherrelativepath" : "../../../CreativeCodes/normal_files",
 				"type" : "WAVE",
 				"implicit" : 1
 			}
 , 			{
-				"name" : "Trumpet and Bass dancing .wav",
-				"bootpath" : "~/Downloads/AT-101-1-202490-Corpus 3 Recordings-390946/Deysi Nazario Bello_361650_assignsubmission_file/AT 101 edited sound files ",
-				"patcherrelativepath" : "../../../Downloads/AT-101-1-202490-Corpus 3 Recordings-390946/Deysi Nazario Bello_361650_assignsubmission_file/AT 101 edited sound files ",
+				"name" : "WK1_waterRunning.wav",
+				"bootpath" : "~/gitprojects/CreativeCodes/normal_files",
+				"patcherrelativepath" : "../../../CreativeCodes/normal_files",
 				"type" : "WAVE",
 				"implicit" : 1
 			}
 , 			{
-				"name" : "W3 - My Melody That Made Them Dance.wav",
-				"bootpath" : "~/Downloads/AT-101-1-202490-Corpus 3 Recordings-390946/Willow Lopez_361648_assignsubmission_file/W3 - My Fan It Speaks In Rotations",
-				"patcherrelativepath" : "../../../Downloads/AT-101-1-202490-Corpus 3 Recordings-390946/Willow Lopez_361648_assignsubmission_file/W3 - My Fan It Speaks In Rotations",
+				"name" : "niceCHORDS.wav",
+				"bootpath" : "~/gitprojects/Code-Orchestra/rep/JooWonPark_FourHitCombo_Sep2024/DF_samples",
+				"patcherrelativepath" : "./DF_samples",
 				"type" : "WAVE",
 				"implicit" : 1
 			}
 , 			{
-				"name" : "week 3 coffee shop (people talking) .wav",
-				"bootpath" : "~/Downloads/AT-101-1-202490-Corpus 3 Recordings-390946/Kersyn McBride_361642_assignsubmission_file",
-				"patcherrelativepath" : "../../../Downloads/AT-101-1-202490-Corpus 3 Recordings-390946/Kersyn McBride_361642_assignsubmission_file",
-				"type" : "WAVE",
-				"implicit" : 1
-			}
-, 			{
-				"name" : "week 3 dog howling.wav",
-				"bootpath" : "~/Downloads/AT-101-1-202490-Corpus 3 Recordings-390946/Kersyn McBride_361642_assignsubmission_file",
-				"patcherrelativepath" : "../../../Downloads/AT-101-1-202490-Corpus 3 Recordings-390946/Kersyn McBride_361642_assignsubmission_file",
-				"type" : "WAVE",
+				"name" : "syntherandom_sparse_Bap.m4a",
+				"bootpath" : "~/gitprojects/Code-Orchestra/rep/JooWonPark_FourHitCombo_Sep2024/DF_samples",
+				"patcherrelativepath" : "./DF_samples",
+				"type" : "M4a",
 				"implicit" : 1
 			}
  ],
