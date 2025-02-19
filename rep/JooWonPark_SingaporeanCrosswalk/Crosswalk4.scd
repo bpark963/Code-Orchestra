@@ -18,7 +18,7 @@ Performance Instruction is availble at www.joowonpark.net/crosswalk
 //The values of ~key, ~timescale, and ~tmap should be same for all files used by all performers.
 
 ~key=61+12;
-~timescale=1;
+~timescale=0.5;
 
 
 // Do not modify below this line (unless...)
